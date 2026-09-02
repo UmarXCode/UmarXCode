@@ -16,7 +16,10 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="30%" align="center" valign="middle">
+<img src="https://avatars.githubusercontent.com/u/UmarXCode?v=4" width="160px" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0px 0px 15px #00f2fe;" alt="Umar's Avatar" />
+</td>
+<td width="70%" valign="top">
 
 ```python
 class UmarShah:
