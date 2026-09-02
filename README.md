@@ -21,7 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.com/api?username=UmarXCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00f0ff&icon_color=ff007f" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarXCode&theme=tokyonight" />
 
 </td>
 </tr>
@@ -46,14 +46,21 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> GitHub Streak & Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> Advanced Analytics & GitHub Graphs
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarXCode&theme=tokyonight&hide_border=true&background=1a1b26&ring=00f0ff&fire=ff007f&currStreakNum=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmarXCode&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmarXCode&theme=tokyonight&utcOffset=5" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=UmarXCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00f0ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarXCode&theme=tokyonight&hide_border=true&background=1a1b26&ring=00f0ff&fire=ff007f&currStreakNum=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=UmarXCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00f0ff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarXCode&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmarXCode&theme=tokyonight" width="48%" />
 </p>
 
 ---
