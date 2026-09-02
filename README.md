@@ -1,349 +1,410 @@
-<div align="center">
+# ⚡ MUHAMMAD UMAR SHAH
 
-<!-- ╔══════════════════════════════════════════════════════╗ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=UMAR%20X%20CODE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20DSA%20%7C%20AI&descAlignY=58&descSize=18"/>
+</p>
 
-<!-- ║                    HERO SECTION                     ║ -->
+<p align="center">
+  <a href="https://github.com/UmarXCode">
+    <img src="https://komarev.com/ghpvc/?username=UmarXCode&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/UmarXCode?tab=followers">
+    <img src="https://img.shields.io/github/followers/UmarXCode?label=FOLLOWERS&style=for-the-badge&color=blue"/>
+  </a>
+</p>
 
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=UMAR%20SHAH&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=gradient"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=PYTHON+DEVELOPER+%F0%9F%90%8D;DJANGO+DEVELOPER+%F0%9F%8C%90;AI%2FML+ENTHUSIAST+%F0%9F%A4%96;DATA+SCIENCE+STUDENT+%F0%9F%93%8A;BUILDING+THE+FUTURE+ONE+PROJECT+AT+A+TIME+%F0%9F%9A%80" alt="Typing Animation"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=050505"/>
-
-<img src="https://komarev.com/ghpvc/?username=UmarXCode&label=VISITORS&color=7C3AED&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/UmarXCode?label=FOLLOWERS&style=for-the-badge&color=EC4899"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧬 `U M A R X C O D E`
-
-### `Developer • Builder • Learner • Problem Solver`
-
-</div>
-
----
-
-## 👨‍💻 `whoami`
-
-```python id="6q9v0u"
-class Developer:
-
-    name = "Muhammad Umar Shah"
-    username = "UmarXCode"
-
-    identity = "Developer"
-
-    main_stack = {
-        "backend": "Python + Django",
-        "frontend": "HTML + CSS + JavaScript",
-        "database": "SQL",
-        "ai": "Machine Learning",
-        "data": "Data Science"
-    }
-
-    mindset = "Build something better every day."
-
-    status = "Currently learning 🚀"
-```
-
-> 💭 **I don't want to just write code. I want to build things that matter.**
-
----
-
-# ⚡ `SYSTEM PROFILE`
-
-<div align="center">
-
-|     🧠 CORE     | ⚙️ ENGINE | 🚀 MISSION |
-| :-------------: | :-------: | :--------: |
-| Problem Solving |   Python  |    Build   |
-|    Creativity   |   Django  |    Learn   |
-|    Curiosity    |   AI/ML   | Experiment |
-|    Discipline   |    Data   |   Improve  |
-
-</div>
-
----
-
-# 💻 `LANGUAGES`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp&perline=4"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-★★★★★-00F7FF?style=for-the-badge&logo=python&logoColor=white&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Java-★★★☆☆-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/C++-★★★★☆-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=111827"/>
-
-</div>
-
----
-
-# 🌐 `WEB DEVELOPMENT`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=django,html,css,tailwind,js&perline=5"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=750&lines=Python+Developer+%F0%9F%90%8D;Data+Science+Enthusiast+%F0%9F%93%8A;DSA+%7C+Problem+Solving+%F0%9F%A7%A9;Pandas+%7C+NumPy+%7C+Data+Analysis;AI+%2F+ML+Explorer+%F0%9F%A4%96;Django+Backend+Developer+%F0%9F%8C%90;Building.+Learning.+Improving.+%E2%9C%A8"/>
+</p>
 
 <br>
 
-```text id="9p8pkw"
-                WEB DEVELOPMENT
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-       FRONTEND     BACKEND      DATABASE
-          │            │            │
-       HTML/CSS      Django        SQL
-          │            │
-     JavaScript     REST API
+## 🧬   U M A R X C O D E
+
+```python
+class UmarShah:
+
+    identity = "Data Science & Python Developer"
+
+    core = [
+        "Python",
+        "Data Science",
+        "DSA",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "Machine Learning"
+    ]
+
+    backend = "Django"
+
+    mindset = "Learn → Build → Solve → Improve"
+
+    mission = "Turn data into intelligent solutions."
 ```
 
-</div>
+<br>
 
----
+# 🧠   C O R E   S K I L L S
 
-# 🤖 `AI / ML`
+<p align="center">
 
-<div align="center">
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2"/>
+<a href="https://pandas.pydata.org/">
+<img src="https://skillicons.dev/icons?i=pandas" width="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><br>
+<a href="https://numpy.org/">
+<img src="https://skillicons.dev/icons?i=numpy" width="70"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-`MACHINE LEARNING` • `DEEP LEARNING` • `NLP` • `AI`
+<a href="https://www.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" width="70"/>
+</a>
 
-</div>
+</p>
 
----
+<p align="center">
 
-# 🚀 `PROJECTS`
+<b>🐍 PYTHON</b>
+    •     <b>📊 DATA SCIENCE</b>
+    •     <b>🧩 DSA</b>
+    •     <b>🐼 PANDAS</b>
+    •     <b>🔢 NUMPY</b>
 
-<div align="center">
+</p>
+
+<br>
+
+# 🐍   P Y T H O N
+
+<p align="center">
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/PYTHON-CORE%20LANGUAGE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+OOP &nbsp; • &nbsp; Functions &nbsp; • &nbsp; Modules &nbsp; • &nbsp; APIs &nbsp; • &nbsp; File Handling
+</p>
+
+<p align="center">
+Exception Handling &nbsp; • &nbsp; Automation &nbsp; • &nbsp; Problem Solving
+</p>
+
+<br>
+
+# 📊   D A T A   S C I E N C E
+
+<p align="center">
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/PANDAS-DATA%20ANALYSIS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+  
+
+<a href="https://numpy.org/">
+<img src="https://img.shields.io/badge/NUMPY-NUMERICAL%20COMPUTING-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+Data Cleaning &nbsp; • &nbsp; Data Preprocessing &nbsp; • &nbsp; EDA
+</p>
+
+<p align="center">
+Data Manipulation &nbsp; • &nbsp; Statistical Analysis &nbsp; • &nbsp; Data Insights
+</p>
+
+<br>
+
+# 🧩   D A T A   S T R U C T U R E S   & A L G O R I T H M S
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ARRAYS-CORE-blueviolet?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STRINGS-PROBLEM%20SOLVING-blue?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LINKED%20LISTS-DSA-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STACKS-DSA-orange?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/QUEUES-DSA-red?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TREES-ALGORITHMS-purple?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+Searching &nbsp; • &nbsp; Sorting &nbsp; • &nbsp; Recursion &nbsp; • &nbsp; Hashing
+</p>
+
+<p align="center">
+Time Complexity &nbsp; • &nbsp; Space Complexity &nbsp; • &nbsp; Algorithmic Thinking
+</p>
+
+<br>
+
+# 🤖   A I   /   M L
+
+<p align="center">
+
+<a href="https://scikit-learn.org/">
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-MACHINE%20LEARNING-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</a>
+
+  
+
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+</a>
+
+  
+
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
+</a>
+
+</p>
+
+<p align="center">
+Machine Learning &nbsp; • &nbsp; Deep Learning &nbsp; • &nbsp; NLP
+</p>
+
+<p align="center">
+Classification &nbsp; • &nbsp; Regression &nbsp; • &nbsp; Model Training
+</p>
+
+<br>
+
+# 🌐   D J A N G O
+
+<p align="center">
+
+<a href="https://www.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" width="70"/>
+</a>
+
+</p>
+
+<p align="center">
+Backend Development &nbsp; • &nbsp; REST APIs &nbsp; • &nbsp; Authentication
+</p>
+
+<p align="center">
+Database Integration &nbsp; • &nbsp; CRUD &nbsp; • &nbsp; Web Applications
+</p>
+
+<br>
+
+# 🗄️   S Q L
+
+<p align="center">
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+</a>
+
+    
+
+<img src="https://img.shields.io/badge/SQL-DATABASE%20LOGIC-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+<p align="center">
+Queries &nbsp; • &nbsp; Joins &nbsp; • &nbsp; Aggregation &nbsp; • &nbsp; Database Design
+</p>
+
+<br>
+
+# 📈   D A T A   W O R K F L O W
+
+<p align="center">
+
+<b>COLLECT</b>
+  →   <b>CLEAN</b>
+  →   <b>EXPLORE</b>
+  →   <b>ANALYZE</b>
+  →   <b>MODEL</b>
+  →   <b>INSIGHT</b>
+
+</p>
+
+<br>
+
+# ⚙️   D E V E L O P E R   M I N D S E T
+
+```text
+        LEARN
+          ↓
+        PRACTICE
+          ↓
+        SOLVE
+          ↓
+        BUILD
+          ↓
+       ANALYZE
+          ↓
+        IMPROVE
+          ↓
+        REPEAT
+```
+
+<br>
+
+# 🚀   C U R R E N T L Y   L E A R N I N G
+
+<p align="center">
+
+📊 Data Science
+
+   ✦   
+
+🧩 Advanced DSA
+
+   ✦   
+
+🤖 Machine Learning
+
+   ✦   
+
+🐍 Advanced Python
+
+</p>
+
+<br>
+
+# 📂   F E A T U R E D   P R O J E C T S
 
 ### 🤖 AI E-Commerce
 
-**Django + AI Chatbot**
+**Django + Python + TensorFlow**
 
-> An e-commerce application exploring how AI can improve the shopping experience.
-
-`Python` `Django` `TensorFlow`
-
----
+> An e-commerce platform integrating an AI-powered chatbot experience.
 
 ### 🌐 Django Portfolio
 
-**Personal Developer Website**
+**Django + Python + HTML/CSS**
 
-> A Django-powered portfolio for showcasing projects, skills, and my development journey.
+> A professional developer portfolio built around my skills, projects and journey.
 
-`Python` `Django` `HTML` `CSS`
+### 🔤 MorseX
 
----
+**Python + Django**
 
-### 🔐 MorseX
+> A web-based Morse code project focused on practical Python and Django development.
 
-**Django Web Application**
+<br>
 
-> A web project built around Morse-code functionality and interactive features.
+# 📊   G I T H U B   A N A L Y T I C S
 
-`Python` `Django` `HTML` `CSS`
+<p align="center">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=UmarXCode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
----
+</p>
 
-# 📊 `GITHUB // ANALYTICS`
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarXCode&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=UmarXCode&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarXCode&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmarXCode&theme=tokyo-night&hide_border=true"/>
 
----
+</p>
 
-# 🔥 `STREAK // ACTIVITY`
+<br>
 
-<div align="center">
+# 🏆   G I T H U B   A C H I E V E M E N T S
 
-<img src="https://streak-stats.demolab.com?user=UmarXCode&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=00F7FF&currStreakLabel=00F7FF" width="80%"/>
+<p align="center">
 
-<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=UmarXCode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmarXCode&bg_color=0D1117&color=00F7FF&line=EC4899&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="96%"/>
+</p>
 
-</div>
+<br>
 
----
+# 🐍   C O N T R I B U T I O N   S N A K E
 
-# 🏆 `ACHIEVEMENTS`
+<p align="center">
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/UmarXCode/UmarXCode/output/github-contribution-grid-snake.svg"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=UmarXCode&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+</p>
 
-</div>
+<br>
 
----
+# 🎯   M I S S I O N
 
-# 🐍 `CONTRIBUTION SNAKE`
+> **Become a stronger Data Scientist, Python Developer and problem solver — one project, one algorithm and one dataset at a time.**
 
-<div align="center">
+<br>
 
-<img src="https://raw.githubusercontent.com/UmarXCode/UmarXCode/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+# 💡   P H I L O S O P H Y
 
-</div>
+<p align="center">
 
----
+<b>DATA</b> gives me the questions.
 
-# 🧠 `CURRENTLY LEARNING`
+  ✦  
 
-<div align="center">
+<b>PYTHON</b> gives me the tools.
 
-```text id="4ap4p5"
-╭─────────────────────────────────────────────────╮
-│                                                 │
-│     🐍  ADVANCED PYTHON                         │
-│                                                 │
-│     🌐  DJANGO & REST APIs                      │
-│                                                 │
-│     🤖  MACHINE LEARNING                        │
-│                                                 │
-│     🧠  DEEP LEARNING                           │
-│                                                 │
-│     💬  NLP                                    │
-│                                                 │
-│     📊  DATA SCIENCE                            │
-│                                                 │
-│     🧩  DATA STRUCTURES & ALGORITHMS            │
-│                                                 │
-╰─────────────────────────────────────────────────╯
-```
+  ✦  
 
-</div>
+<b>DSA</b> gives me the logic.
 
----
+  ✦  
 
-# ⚙️ `DEVELOPER WORKFLOW`
+<b>AI</b> gives me possibilities.
 
-<div align="center">
+</p>
 
-```text id="4w7bqh"
-       ┌───────────┐
-       │   💡 IDEA │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ 🧠 PLAN   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ 💻 BUILD  │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ 🧪 TEST   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ 🐛 DEBUG  │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ ⚡ IMPROVE│
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ 🚀 DEPLOY │
-       └─────┬─────┘
-             ↓
-          🔁 REPEAT
-```
+<br>
 
-</div>
+# 🔗   C O N N E C T   W I T H   M E
 
----
-
-# 🎯 `MISSION 2026`
-
-<div align="center">
-
-```text id="k4j1q3"
-████████████████████████████░░░░  PYTHON / DJANGO
-
-██████████████████████░░░░░░░░░  DATA SCIENCE
-
-██████████████████░░░░░░░░░░░░  MACHINE LEARNING
-
-██████████████░░░░░░░░░░░░░░░░  DEEP LEARNING
-
-██████████░░░░░░░░░░░░░░░░░░░  OPEN SOURCE
-
-████████░░░░░░░░░░░░░░░░░░░░░  REAL-WORLD PROJECTS
-```
-
-### 🚀 Learn → Build → Fail → Debug → Improve → Repeat
-
-</div>
-
----
-
-# 💬 `MY PHILOSOPHY`
-
-<div align="center">
-
-## **"Don't just learn the technology. Build with it."**
-
-### 💻 Code with purpose.
-
-### 🧠 Learn from every error.
-
-### 🚀 Keep moving forward.
-
-</div>
-
----
-
-# 🌎 `CONNECT`
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/UmarXCode">
-<img src="https://img.shields.io/badge/GITHUB-UmarXCode-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GITHUB-UmarXCode-181717?style=for-the-badge&logo=github"/>
 </a>
+
+  
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-### 🤝 Always open to learning, collaboration & interesting projects.
+<br>
 
-</div>
+<p align="center">
 
----
+<b>⚡ CODE • ANALYZE • SOLVE • BUILD • REPEAT ⚡</b>
 
-<div align="center">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=KEEP%20BUILDING%20%F0%9F%9A%80&fontSize=32&fontColor=ffffff&animation=twinkling&color=gradient"/>
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling"/>
+</p>
