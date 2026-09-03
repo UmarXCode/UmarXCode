@@ -96,7 +96,7 @@
 <p align="center">
 <b>06 • TOOLS</b>
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter&perline=5" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,pycharm,jupyter&perline=5" alt="Developer Tools"/>
 </p>
 
 <!-- 07 • DEPLOYMENT -->
@@ -114,10 +114,6 @@
 </p>
 
 
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180" alt="Coding Animation"/>
 
 </p>
 
