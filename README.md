@@ -65,29 +65,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180" alt="Coding Animation"/>
 
-</p>
 
-<h2 align="center">📊 THE NUMBERS</h2>
-
-<p align="center">
-
-<a href="https://github.com/UmarXCode">
-<img src="https://github-readme-stats.vercel.app/api?username=UmarXCode&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00cc33&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 </a>
-
-<a href="https://github.com/UmarXCode">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarXCode&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" height="180" alt="Top Languages"/>
-</a>
-
-</p>
-
-<h2 align="center">💾 LANGUAGE REGISTRY</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarXCode&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8" alt="Language Registry"/>
-
-</p>
 
 <h2 align="center">🟢 SYSTEM UPTIME</h2>
 
