@@ -95,6 +95,7 @@
 
 <p align="center">
 <b>06 • DEPLOYMENT</b>
+<br><br>
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx&perline=3" alt="Deployment"/>
 </p>
 
@@ -102,10 +103,6 @@
 
 <p align="center">
 <code>PYTHON → DJANGO → FRONTEND → DATA → DATABASE → API → TOOLS → DEPLOY</code>
-</p>
-
-
-
 </p>
 
 <p align="center">
