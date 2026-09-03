@@ -67,8 +67,6 @@
 
 </div>
 
-<h2 align="center">📊 THE NUMBERS</h2>
-
 <p align="center">
 
 <a href="https://github.com/UmarXCode">
