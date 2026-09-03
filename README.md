@@ -95,6 +95,8 @@
 
 <p align="center">
 
+<a href="https://github.com/UmarXCode">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmarXCode&custom_title=UmarXCode%20Activity%20Graph&bg_color=0a0a0a&color=00FF41&line=58A6FF&point=FFFFFF&area=true&hide_border=true&area_color=00FF41" width="95%" alt="GitHub Activity Graph"/>
 
 </a>
@@ -105,13 +107,19 @@
 
 <p align="center">
 
+<a href="https://github.com/UmarXCode">
+
 <img src="https://img.shields.io/github/followers/UmarXCode?style=for-the-badge&logo=github&label=FOLLOWERS&color=00FF41&labelColor=0a0a0a"/>
 
 </a>
 
+<a href="https://github.com/UmarXCode?tab=repositories">
+
 <img src="https://img.shields.io/github/stars/UmarXCode?style=for-the-badge&logo=github&label=STARS&color=58A6FF&labelColor=0a0a0a"/>
 
 </a>
+
+<a href="https://github.com/UmarXCode?tab=repositories">
 
 <img src="https://img.shields.io/badge/REPOSITORIES-LIVE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 
