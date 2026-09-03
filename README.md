@@ -51,60 +51,66 @@
 
 <h2 align="center">💊 ARSENAL</h2>
 
+<!-- 01 • CORE -->
+
 <p align="center">
-
-<!-- 🐍 Python & Backend -->
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&perline=8" alt="Python Backend"/>
-
+<b>01 • CORE</b>
 <br><br>
-
-<!-- 🌐 Frontend -->
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=8" alt="Frontend"/>
-
-<br><br>
-
-<!-- 🗄️ Databases -->
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&perline=8" alt="Databases"/>
-
-<br><br>
-
-<!-- 📊 Data & Scraping -->
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,selenium&perline=8" alt="Data and Scraping"/>
-
-<br><br>
-
-<!-- 🔌 APIs & Development -->
-
-<img src="https://skillicons.dev/icons?i=postman,git,github,vscode,pycharm,jupyter&perline=8" alt="Development Tools"/>
-
-<br><br>
-
-<!-- 🐳 DevOps & Deployment -->
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,githubactions&perline=8" alt="DevOps"/>
-
+<img src="https://skillicons.dev/icons?i=python,django&perline=2" alt="Python Django"/>
 </p>
 
-<p align="center">
+<!-- 02 • FRONTEND -->
 
-<b>PYTHON</b> • <b>DJANGO</b> • <b>DJANGO REST FRAMEWORK</b> • <b>REST APIs</b> • <b>WEB SCRAPING</b> • <b>PANDAS</b> • <b>NUMPY</b>
+<p align="center">
+<b>02 • FRONTEND</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" alt="Frontend"/>
+</p>
+
+<!-- 03 • DATA -->
+
+<p align="center">
+<b>03 • DATA</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=pandas,numpy&perline=2" alt="Data"/>
+</p>
+
+<!-- 04 • DATABASE -->
+
+<p align="center">
+<b>04 • DATABASE</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3" alt="Databases"/>
+</p>
+
+<!-- 05 • API & SCRAPING -->
+
+<p align="center">
+<b>05 • API & SCRAPING</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=postman,selenium&perline=2" alt="API and Scraping"/>
+</p>
+
+<!-- 06 • TOOLS -->
+
+<p align="center">
+<b>06 • TOOLS</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter&perline=5" alt="Developer Tools"/>
+</p>
+
+<!-- 07 • DEPLOYMENT -->
+
+<p align="center">
+<b>07 • DEPLOYMENT</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx&perline=3" alt="Deployment"/>
+</p>
 
 <br>
 
-<b>HTML</b> • <b>CSS</b> • <b>JAVASCRIPT</b> • <b>BOOTSTRAP</b> • <b>MYSQL</b> • <b>POSTGRESQL</b> • <b>SQLITE</b> • <b>REDIS</b>
-
-<br>
-
-<b>GIT</b> • <b>GITHUB</b> • <b>POSTMAN</b> • <b>JUPYTER</b> • <b>SELENIUM</b> • <b>DOCKER</b> • <b>NGINX</b> • <b>LINUX</b>
-
-</p>
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180" alt="Coding Animation"/>
+<code>PYTHON → DJANGO → FRONTEND → DATA → DATABASE → API → TOOLS → DEPLOY</code>
 </p>
 
 
