@@ -49,7 +49,7 @@
 
 </p>
 
-<h2 align="center">💊 ARSENAL</h2>
+<h2 align="center">DEVELOPER ARCHITECTURE</h2>
 
 <!-- 01 • CORE -->
 
@@ -91,16 +91,8 @@
 <img src="https://skillicons.dev/icons?i=git,replit,github,vscode,pycharm,jupyter&perline=5" alt="Developer Tools"/>
 </p>
 
-<!-- 06 • DEPLOYMENT -->
-
 <p align="center">
-<b>06 • DEPLOYMENT</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx&perline=3" alt="Deployment"/>
-</p>
-
-<p align="center">
-<code>PYTHON → DJANGO → FRONTEND → DATA → DATABASE → API → TOOLS → DEPLOY</code>
+<code>PYTHON → DJANGO → FRONTEND → DATA → DATABASE → API → TOOLS</code>
 </p>
 
 <p align="center">
