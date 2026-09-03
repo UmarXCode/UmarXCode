@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center">⌨️ WHOAMI</h2>
+<h2 align="center">⌨️ WHO AM I?</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+things+on+the+internet;Python+%7C+Django+%7C+Pandas;REST+APIs+%7C+Web+Scraping;Turning+ideas+into+working+systems" alt="About Me"/>
