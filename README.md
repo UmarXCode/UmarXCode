@@ -49,7 +49,7 @@
 
 </p>
 
-<h2 align="center">DEVELOPER ARCHITECTURE</h2>
+<h2 align="center">🧬 DEVELOPER ARCHITECTURE</h2>
 
 <!-- 01 • CORE -->
 
