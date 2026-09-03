@@ -99,8 +99,6 @@
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx&perline=3" alt="Deployment"/>
 </p>
 
-<br>
-
 <p align="center">
 <code>PYTHON → DJANGO → FRONTEND → DATA → DATABASE → API → TOOLS → DEPLOY</code>
 </p>
