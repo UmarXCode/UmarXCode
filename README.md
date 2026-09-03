@@ -53,27 +53,61 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,mysql,sqlite&perline=9" alt="Core Development"/>
+<!-- 🐍 Python & Backend -->
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&perline=8" alt="Python Backend"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,postman,vscode,linux,regex,selenium,bootstrap&perline=8" alt="Development Tools"/>
+<!-- 🌐 Frontend -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=8" alt="Frontend"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,docker,githubactions,vercel,nginx&perline=8" alt="Backend & Deployment"/>
+<!-- 🗄️ Databases -->
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&perline=8" alt="Databases"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=gitlab,github,pycharm,jupyter,anaconda,bash&perline=6" alt="Workflow & Data Tools"/>
+<!-- 📊 Data & Scraping -->
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,selenium&perline=8" alt="Data and Scraping"/>
+
+<br><br>
+
+<!-- 🔌 APIs & Development -->
+
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode,pycharm,jupyter&perline=8" alt="Development Tools"/>
+
+<br><br>
+
+<!-- 🐳 DevOps & Deployment -->
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,githubactions&perline=8" alt="DevOps"/>
 
 </p>
 
 <p align="center">
 
-<sub> 🐍 Python &nbsp;•&nbsp; 🌐 Django &nbsp;•&nbsp; ⚡ REST APIs &nbsp;•&nbsp; 📊 Pandas &nbsp;•&nbsp; 🔢 NumPy &nbsp;•&nbsp; 🕷️ Web Scraping &nbsp;•&nbsp; 🗄️ Databases &nbsp;•&nbsp; 🚀 Deployment </sub>
+<b>PYTHON</b> • <b>DJANGO</b> • <b>DJANGO REST FRAMEWORK</b> • <b>REST APIs</b> • <b>WEB SCRAPING</b> • <b>PANDAS</b> • <b>NUMPY</b>
+
+<br>
+
+<b>HTML</b> • <b>CSS</b> • <b>JAVASCRIPT</b> • <b>BOOTSTRAP</b> • <b>MYSQL</b> • <b>POSTGRESQL</b> • <b>SQLITE</b> • <b>REDIS</b>
+
+<br>
+
+<b>GIT</b> • <b>GITHUB</b> • <b>POSTMAN</b> • <b>JUPYTER</b> • <b>SELENIUM</b> • <b>DOCKER</b> • <b>NGINX</b> • <b>LINUX</b>
 
 </p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180" alt="Coding Animation"/>
+</p>
+
+
 
 <p align="center">
 
