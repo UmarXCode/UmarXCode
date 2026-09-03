@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:0072FF,70:7B2CFF,100:FF00C8&height=210&section=header&text=UmarXCode&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:0072FF,55:7B2CFF,80:FF00C8,100:00F5FF&height=220&section=header&text=UmarXCode&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Python+Developer+%F0%9F%90%8D;Django+Backend+Developer+%E2%9A%A1;REST+API+Developer+%F0%9F%8C%90;Web+Scraping+%26+Data+Processing+%F0%9F%95%B7%EF%B8%8F;Building+Cool+Things+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=Python+Developer+%F0%9F%90%8D;Django+%7C+REST+APIs+%7C+Web+Scraping;Data+Processing+%7C+Automation;Turning+Ideas+Into+Powerful+Code+%E2%9A%A1"/>
 
 <br><br>
 
-<img src="https://github.com/UmarXCode.png" width="140" height="140" alt="UmarXCode"/>
+<img src="https://github.com/UmarXCode.png" width="145">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=UmarXCode&style=for-the-badge&label=PROFILE+VIEWS&color=7B2CFF"/>
-<img src="https://img.shields.io/github/followers/UmarXCode?style=for-the-badge&label=FOLLOWERS&color=00F5FF"/>
-<img src="https://img.shields.io/github/stars/UmarXCode?style=for-the-badge&label=STARS&color=FF00C8"/>
+<img src="https://komarev.com/ghpvc/?username=UmarXCode&style=for-the-badge&color=7B2CFF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/UmarXCode?style=for-the-badge&color=00F5FF&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/UmarXCode?style=for-the-badge&color=FF00C8&label=STARS"/>
 
 </div>
 
@@ -22,33 +22,31 @@
 
 <div align="center">
 
-## ⚡ `UmarXCode`
+# 💻 `PROGRAMMING MODE`
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,jupyter,pandas,numpy&theme=dark&perline=10"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=400&color=00F5FF&center=true&vCenter=true&width=850&lines=%24+python+main.py;%3E%3E%3E+Initializing+UmarXCode...;%3E%3E%3E+Loading+Python+%E2%9C%93;%3E%3E%3E+Loading+Django+%E2%9C%93;%3E%3E%3E+Loading+APIs+%E2%9C%93;%3E%3E%3E+Loading+Web+Scraping+%E2%9C%93;%3E%3E%3E+System+Ready+%E2%9A%A1"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/PYTHON-Developer-00F5FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DJANGO-Backend-7B2CFF?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-Development-FF00C8?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATA-Processing-0072FF?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,pandas,numpy,html,css,git,github,vscode,jupyter&theme=dark&perline=11"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-<div align="center">
+```python
+class UmarXCode:
 
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🐍 Python Developer                      │
-│   ⚡ Django Backend Developer              │
-│   🌐 REST API Developer                    │
-│   🕷️ Web Scraping Specialist              │
-│   📊 Data Processing                       │
-│   🤖 Automation                            │
-│                                            │
-╰────────────────────────────────────────────╯
+    role = "Python & Django Developer"
+
+    expertise = [
+        "Backend Development",
+        "REST APIs",
+        "Web Scraping",
+        "Data Processing",
+        "Automation"
+    ]
+
+    mindset = "Build → Learn → Improve 🚀"
