@@ -70,7 +70,7 @@
 <!-- 03 • DATABASE -->
 
 <p align="center">
-<b>04 • DATABASE</b>
+<b>03 • DATABASE</b>
 <br><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3" alt="Databases"/>
 </p>
@@ -78,7 +78,7 @@
 <!-- 04 • API & SCRAPING -->
 
 <p align="center">
-<b>05 • API & SCRAPING</b>
+<b>04 • API & SCRAPING</b>
 <br><br>
 <img src="https://skillicons.dev/icons?i=postman,selenium&perline=2" alt="API and Scraping"/>
 </p>
@@ -86,7 +86,7 @@
 <!-- 05 • TOOLS -->
 
 <p align="center">
-<b>06 • TOOLS</b>
+<b>05 • TOOLS</b>
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,replit,github,vscode,pycharm,jupyter&perline=5" alt="Developer Tools"/>
 </p>
@@ -94,8 +94,7 @@
 <!-- 06 • DEPLOYMENT -->
 
 <p align="center">
-<b>07 • DEPLOYMENT</b>
-<br><br>
+<b>06 • DEPLOYMENT</b>
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx&perline=3" alt="Deployment"/>
 </p>
 
