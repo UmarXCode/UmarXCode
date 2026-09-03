@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center">⌨️ WHOAMI</h2>
+<h2 align="center">⌨️ WHO AM I?</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+things+on+the+internet;Python+%7C+Django+%7C+Pandas;REST+APIs+%7C+Web+Scraping;Turning+ideas+into+working+systems" alt="Typing SVG"/>
@@ -67,8 +67,6 @@
 
 </div>
 
-<h2 align="center">📊 THE NUMBERS</h2>
-
 <p align="center">
 
 <a href="https://github.com/UmarXCode">
@@ -80,8 +78,6 @@
 </a>
 
 </p>
-
-<h2 align="center">💾 LANGUAGE REGISTRY</h2>
 
 <p align="center">
 
@@ -97,11 +93,7 @@
 
 </p>
 
-<h2 align="center">📈 ACTIVITY MATRIX</h2>
-
 <p align="center">
-
-<a href="https://github.com/UmarXCode">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmarXCode&custom_title=UmarXCode%20Activity%20Graph&bg_color=0a0a0a&color=00FF41&line=58A6FF&point=FFFFFF&area=true&hide_border=true&area_color=00FF41" width="95%" alt="GitHub Activity Graph"/>
 
@@ -113,19 +105,13 @@
 
 <p align="center">
 
-<a href="https://github.com/UmarXCode">
-
 <img src="https://img.shields.io/github/followers/UmarXCode?style=for-the-badge&logo=github&label=FOLLOWERS&color=00FF41&labelColor=0a0a0a"/>
 
 </a>
 
-<a href="https://github.com/UmarXCode?tab=repositories">
-
 <img src="https://img.shields.io/github/stars/UmarXCode?style=for-the-badge&logo=github&label=STARS&color=58A6FF&labelColor=0a0a0a"/>
 
 </a>
-
-<a href="https://github.com/UmarXCode?tab=repositories">
 
 <img src="https://img.shields.io/badge/REPOSITORIES-LIVE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 
