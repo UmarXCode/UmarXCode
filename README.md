@@ -92,6 +92,7 @@
 </p>
 
 <p align="center">
+<br><br>
 <code>PYTHON → DJANGO → FRONTEND → DATA → DATABASE → API → TOOLS</code>
 </p>
 
