@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center">⌨️ WHOAMI</h2>
+<h2 align="center">⌨️ WHO AM I?</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+things+on+the+internet;Python+%7C+Django+%7C+Pandas;REST+APIs+%7C+Web+Scraping;Turning+ideas+into+working+systems" alt="Typing SVG"/>
@@ -81,8 +81,6 @@
 
 </p>
 
-<h2 align="center">💾 LANGUAGE REGISTRY</h2>
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarXCode&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00cc33&langs_count=8"/>
@@ -96,8 +94,6 @@
 <img src="https://streak-stats.demolab.com?user=UmarXCode&theme=dark&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=58A6FF" width="65%"/>
 
 </p>
-
-<h2 align="center">📈 ACTIVITY MATRIX</h2>
 
 <p align="center">
 
