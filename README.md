@@ -53,11 +53,31 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,mysql,sqlite&perline=9" alt="Core Skills"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,mysql,sqlite&perline=9" alt="Core Development"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,postman,vscode,linux&perline=8" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,postman,vscode,linux,regex,selenium,bootstrap&perline=8" alt="Development Tools"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,docker,githubactions,vercel,nginx&perline=8" alt="Backend & Deployment"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=gitlab,github,pycharm,jupyter,anaconda,bash&perline=6" alt="Workflow & Data Tools"/>
+
+</p>
+
+<p align="center">
+
+<sub> 🐍 Python &nbsp;•&nbsp; 🌐 Django &nbsp;•&nbsp; ⚡ REST APIs &nbsp;•&nbsp; 📊 Pandas &nbsp;•&nbsp; 🔢 NumPy &nbsp;•&nbsp; 🕷️ Web Scraping &nbsp;•&nbsp; 🗄️ Databases &nbsp;•&nbsp; 🚀 Deployment </sub>
+
+</p>
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180" alt="Coding Animation"/>
 
 </p>
 
